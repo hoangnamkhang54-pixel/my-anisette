@@ -1,5 +1,5 @@
 # Sử dụng bản build mới nhất và ổn định nhất của Anisette-v3 từ Dadoum
-FROM dadoum/anisette-v3:latest
+FROM dadoum/anisette-v3-server:latest
 
 # Cấu hình cổng chạy server (Mặc định Anisette dùng cổng 6969)
 ENV PORT=6969

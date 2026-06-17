@@ -1,2 +1,2 @@
 FROM dadoum/anisette-v3-server:latest
-EXPOSE 6969
+ENV PORT=10000
